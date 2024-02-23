@@ -31,7 +31,7 @@ Clone the repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/your-username/scroll-image-gallery.git
+https://vishalrathore95.github.io/scroll-image-gallery/
 Open the index.html file in your preferred web browser.
 
 Explore the image gallery and enjoy the scrolling functionality.
